@@ -1,16 +1,30 @@
-# 👋 Hi, I'm Nityanand Maurya
+# Hi there! I'm Nityanand Maurya 👋
 
-💻 Backend + Security Systems Developer
-🔐 Focused on Cybersecurity, AI Security & Scalable Systems
+<div align="center">
+
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E96F7&center=true&vCenter=true&width=900&lines=Backend+%2B+Cybersecurity+Developer;Building+Real+Security+Systems;AI+Security+%7C+System+Design;FastAPI+%2B+Security+Engineering;LeakDNA+%7C+FIM+Projects)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🎯 About Me
 
-* 🎓 SRM Institute of Science & Technology (Delhi NCR) | GPA: 9.4
-* ⚡ Strong in **DSA, Backend Development, System Design**
-* 🧪 Working on **real-world security systems**
-* 🛠️ I build **practical tools, not academic demos**
+🎓 **SRM Institute of Science and Technology (Delhi NCR)** | GPA: 9.4  
+💻 **Backend Developer** focused on scalable systems  
+🔐 Building **Cybersecurity tools (Leak Detection, File Monitoring)**  
+🧠 Strong in **DSA, System Design, and API Architecture**  
+🚀 I prefer **real-world systems over theoretical projects**
+
+---
+
+## ⚡ Quick Facts
+
+- 🧬 Building **LeakDNA** → Data leak detection system  
+- 🔐 Working on **File Integrity Monitoring (FIM)**  
+- ⚙️ Backend with **FastAPI (production mindset)**  
+- 🧠 Interested in **AI Security & LLM vulnerabilities**  
+- 💡 Think in **systems, not just code**
 
 ---
 
@@ -18,92 +32,95 @@
 
 ### 🧬 LeakDNA (Data Leak Detection System)
 
-> Detects sensitive data exposure and unauthorized leaks
+> Detect sensitive data exposure before it becomes a breach
 
-* Scans files & directories for sensitive patterns (PII, credentials)
-* Detects accidental leaks before exposure
-* Can be extended to monitor cloud / APIs
-* Future: real-time leak detection + alert system
+- Scans files for **PII, API keys, credentials**  
+- Detects accidental leaks in local systems  
+- Extendable to **cloud + Git monitoring**  
+- Future: real-time alerts + SaaS dashboard  
 
 ---
 
 ### 🔐 File Integrity Monitoring System (FIM)
 
-> Detects file tampering using hashing + metadata tracking
+> Detect unauthorized file tampering
 
-* Auto-detects file changes in real-time
-* Supports multiple file types (PDF, TXT, etc.)
-* Alerts on unauthorized modification
-* Tracks file history with markers
-
----
-
-### 🕵️ OSINT Recon Tool *(Planned / WIP)*
-
-> Automated target intelligence collection
-
-* Username tracking across platforms
-* Metadata extraction
-* Public data aggregation
+- Real-time file monitoring  
+- Hash-based + metadata verification  
+- Works across multiple file types  
+- Alerts on suspicious changes  
 
 ---
 
-## ⚔️ What I Do
+### 🕵️ OSINT Recon Tool *(Planned)*
 
-### 🧠 Backend & Systems
+> Automated intelligence gathering
 
-* FastAPI-based APIs
-* Scalable system design
-* Efficient data processing
-
-### 🔐 Cybersecurity
-
-* Web vulnerabilities (OWASP concepts)
-* File monitoring & leak detection systems
-* Understanding attack + defense both
-
-### 🤖 AI Security (Emerging Focus)
-
-* Prompt injection detection
-* AI misuse & model exploitation concepts
+- Username tracking  
+- Metadata extraction  
+- Public data aggregation  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack & Skills
 
-💻 Languages
-`Python` `C`
+### 💻 Programming
 
-⚙️ Frameworks
-FastAPI
-
-🛠️ Tools
-Kali Linux | Burp Suite | Wireshark
-
-📊 Libraries
-Matplotlib | Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 📈 Current Focus
+### ⚙️ Backend
 
-* 🔐 Building **security-focused tools (LeakDNA + FIM)**
-* ⚡ Improving backend system design
-* 🤖 Exploring AI attack surfaces
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🎯 Future Goals
+### 🔐 Security Tools
 
-* 🚀 Launch a **Cybersecurity SaaS (Leak Detection / Monitoring)**
-* 🧠 Research in **AI Security & Adversarial Attacks**
-* 💰 Monetize via freelancing + products
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+### 📊 Data & Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
-## 📫 Connect
+## 🔥 Current Focus
 
-* GitHub: https://github.com/nityanand05
-* LinkedIn: [www.linkedin.com/in/nityanand-maurya-6a76bb23b](http://www.linkedin.com/in/nityanand-maurya-6a76bb23b)
+- 🔐 Building **Leak Detection + File Monitoring systems**  
+- ⚡ Writing **clean, scalable backend APIs**  
+- 🤖 Exploring **AI attack surfaces (prompt injection, misuse)**  
 
 ---
+
+## 🎯 Future Direction
+
+- 🚀 Cybersecurity SaaS (Leak Detection / Monitoring)  
+- 🧠 AI Security Research  
+- 💰 Freelancing + Product-based income  
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nityanand-maurya-6a76bb23b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nityanand05)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nityanand05&color=brightgreen&style=flat-square)
+
+</div>
